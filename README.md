@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PeratlaSaikiran
 - 👀 I’m interested in  developing webpages , learning something new  daily..
 - 🌱 I’m currently learning  Btech 3rd year at  vignana bharathi institute of technology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me peratlasai06@gmail.com
 
 <!---
